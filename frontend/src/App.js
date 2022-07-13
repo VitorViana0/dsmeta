@@ -1,9 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import notfication_icon from "./notf-icon.svg";
 
 function App() {
   return (
-    <h1>Teste</h1>
+    <div>
+      <h1>Ola Mundo!</h1>
+    </div>
   );
 }
 
