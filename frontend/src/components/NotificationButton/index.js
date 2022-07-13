@@ -4,8 +4,7 @@ import './styles.css'
 function NotificationButton() {
     return (
         <>
-            <p>Meu Componente</p>
-            <div class="dsmeta-red-btn">
+            <div className="dsmeta-red-btn">
                 <img src={notificationIcon} alt="Notificar" />
             </div>
         </>
